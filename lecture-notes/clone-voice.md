@@ -12,13 +12,13 @@
 ## 📁 專案目錄結構建議
 
 ```
-tortoise_project/
-├── run_tortoise.py              # 主執行檔
-├── sample_text.txt              # 自訂句子（選擇性）
-├── tortoise-tts/                # Tortoise TTS 原始碼
-│   └── voices/
-│       └── myvoice/
-│           └── sample1.wav      # 你的聲音樣本
+tortoise_project/          
+├── tortoise-tts/
+|   ├── run_tortoise.py # 主執行檔
+│   └── tortoise/               
+│         └── voices/
+│               └── myvoice/
+│                       └── sample1.wav      # 你的聲音樣本
 └── .venv/                       # 虛擬環境（建議）
 ```
 
