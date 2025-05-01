@@ -2,7 +2,7 @@
 
 🐢 Tortoise TTS 語音克隆與合成教學（VSCode 範例）
 
-```markdown
+
 # 🐢 使用 Tortoise TTS 進行聲音克隆與語音合成（VSCode 範例）
 
 本教學將引導你如何使用 [Tortoise TTS](https://github.com/neonbjb/tortoise-tts) 模擬 sample1.wav 的聲音，並讓 AI 說出自訂句子。
@@ -109,6 +109,3 @@ python run_tortoise.py
 ---
 
 如需整合 Coqui TTS 或自動分句功能，可另外擴充。
-```
-
-你可以將這段存成檔案，例如：TortoiseTTS教學.md。需要我也幫你做成 Coqui TTS 的講義版本嗎？
